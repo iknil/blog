@@ -2,7 +2,7 @@
 title: "新人成长"
 date: 2022-02-13T15:50:35+08:00
 draft: false
-description: ""
+description: "互联网新人如何成长"
 authors: ["iknil"]
 slug: ""
 tags: ["思考", "职场"]

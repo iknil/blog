@@ -20,7 +20,7 @@ description = "iknil's personal website"
 keywords = "blog,developer,personal"
 info = ["Full Stack DevOps", "Magician"]
 avatarURL = "media/global/img/avatar.jpeg"
-#gravatar = "lk.social@outlook.com"
+#gravatar = "lk.work@outlook.com"
 dateFormat = "January 2, 2006"
 since = 2022
 favicon_32 = "/media/global/img/favicon-32x32.png"
@@ -178,8 +178,8 @@ title = "IKNIL的博客"
 [languages.zh-cn.params]
 author = "iknil"
 info = ["全栈开发", "工程师"]
-description = "Sítio pessoal de João Ninguém"
-keywords = "blog,desenvolvedor,pessoal"
+description = "iknil的个人博客"
+keywords = "博客,全栈开发,个人生活，工程师"
 
 [[languages.zh-cn.menu.main]]
 name = "关于"

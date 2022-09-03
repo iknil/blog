@@ -17,4 +17,4 @@ jobs:
           npm install
           npm run build
       - name: Publish
-        run: cp -rf ./public /home/ubuntu/website/iknil.dev/html/
+        run: cp -rf ./public/* /home/ubuntu/website/iknil.dev/html/

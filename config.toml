@@ -50,6 +50,14 @@ hasCJKLanguage = true
     name = "分类"
     url = "/categories/"
     title = ""
+  [[menu.main]]
+    weight = 4
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "关于"
+    url = "/about/"
+    title = ""
 
 # Hugo 解析文档的配置
 [markup]
@@ -261,7 +269,7 @@ hasCJKLanguage = true
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
-    GitHub = ""
+    GitHub = "https://github.com/iknil"
     Linkedin = ""
     Twitter = ""
     Instagram = ""

@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/iknil/blog#readme",
   "devDependencies": {
-    "hugo-bin": "^0.80.2"
+    "hugo-bin": "^0.98.0"
   }
 }

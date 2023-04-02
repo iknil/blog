@@ -9,4 +9,4 @@ description: "关于我"
 
 喜欢小动物，热爱生活，家里有一只柴犬、一只缅因，偶尔会下厨房。
 
-![](https://cdn.jsdelivr.net/gh/iknil/static-pics/img/202302160048784.webp)
+![](https://gcore.jsdelivr.net/gh/iknil/static-pics/img/202302160048784.webp)

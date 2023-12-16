@@ -6,7 +6,8 @@
   "scripts": {
     "build": "hugo",
     "create": "hugo new",
-    "serve": "hugo server"
+    "serve": "hugo server",
+    "commit": "cz"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,12 @@
   },
   "homepage": "https://github.com/iknil/blog#readme",
   "devDependencies": {
+    "commitizen": "^4.3.0",
     "hugo-bin": "^0.80.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
   }
 }

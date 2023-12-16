@@ -106,3 +106,6 @@ dist
 # Hugo
 public/
 .hugo_build.lock
+
+# idea
+.idea

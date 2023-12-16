@@ -243,13 +243,13 @@ hasCJKLanguage = true
       gravatarEmail = ""
       # URL of avatar shown in home page
       # 主页显示头像的 URL
-      avatarURL = "https://gcore.jsdelivr.net/gh/iknil/static-pics/img/202301260242250.png"
+      avatarURL = "https://pics.iknil.dev/imgs/2023_11_16.8df34a9aac24d251bf302891e02a6d70.192.0.90.webp"
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
       title = "iknil's blog"
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "当你穿过了暴风雨，你早已不再是原来那个人"
+      subtitle = "\"Hello World!\"  🖥️ 🌍"
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       typeit = false
